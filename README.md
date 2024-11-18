@@ -42,7 +42,6 @@
 <!--
     This is where the page begins!
 -->
-[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Banner.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
 
 <!--
     This is the language bar!
